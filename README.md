@@ -1,2 +1,4 @@
-# Ola Mundo
- Repositorio versionado do curso
+# Olá, Mundo
+ Primeiro Repositorio versionado do curso de Git e GitHub
+
+ Repositorio criado durante uma aula.
